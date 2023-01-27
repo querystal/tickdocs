@@ -1,7 +1,7 @@
 site_name: ""
 theme: 
   logo: assets/logo-full-color-1.png
-  favicon: assets/logo-0.png
+  favicon: assets/logo-bg-transp.png
   name: material
   features:
   - navigation.sections

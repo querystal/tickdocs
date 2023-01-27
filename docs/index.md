@@ -1,16 +1,16 @@
 0xTick is an cloud-native streaming data platform built for Web3.0 businesses. With cutting-edge streaming technology, 0xTick is able to implement an subsecond and cost-efficent solution of blockchain monitoring via custom SQL statements. 
 
 ## Why 0xTick
-### Real-time
+<b>Real-time</b>
 > 0xTick contains plenty of real-time data sources of blockchains that are updated in subsecond.
 
-### SQL Interface with Time Travel
+<b>SQL Interface with Time Travel</b>
 > 0xTick supports custom signal by full SQL standard, and you are possible to use window function and and time travel feature to back test a former signal.
 
-### Data Integrity
+<b>Data Integrity</b>
 > All SQL statements have clear lineages among them and it is easy for a subscriber to understand the algorithms before proceed to subscribe them.
 
-### Integration
+<b>Integration</b>
 > Instead of keeping querying a datasets sequentially, 0xTick supports incremental computing and push new outcomes proactively, which signaficantly reduces the cost of running all statements.
 
 ## Hands On
