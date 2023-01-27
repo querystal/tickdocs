@@ -1,0 +1,81 @@
+site_name: ""
+theme: 
+  logo: assets/logo-full-color-1.png
+  favicon: assets/logo-0.png
+  name: material
+  features:
+  - navigation.sections
+  - navigation.tabs
+  - navigation.instant
+  - navigation.footer
+  - navigation.top
+  custom_dir: overrides
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+nav:
+  - Welcome: index.md
+  #   - English: homepage/home.md
+  - Getting Started: getstarted/quickstart.md
+  - Documentation: 
+    - Signal Development: 
+      - Data Warehouse: docs/dw/dataset.md
+      - SQL: 
+        - Commands:
+            - SELECT: docs/sql/select.md
+            - INNER JOIN: docs/sql/select.md
+            - LEFT / RIGHT JOIN: docs/sql/select.md
+            - WHERE: docs/sql/select.md
+            - IN:  docs/sql/select.md
+            - EXISTS: docs/sql/select.md
+            - GROUP BY: docs/sql/select.md
+            - HAVING: docs/sql/select.md
+            - LIMIT: docs/sql/select.md
+            - ORDER BY: docs/sql/select.md
+        - Data Types: docs/sql/dty.md
+        - Functions: docs/sql/func.md
+    - Meta Station:
+        - Data Metadata: docs/meta/meta.md
+        - Lineage: docs/meta/lineage.md
+  - About: 
+    - Team: about/team.md
+    - Contact: about/contact.md
+    - Privacy Policy: privacy.md
+    - Terms of Use: terms.md

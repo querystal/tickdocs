@@ -1,0 +1,1 @@
+In this document, we will guide you to hand on 0xTick. You will be using 10-15 mins to finish this guide.
