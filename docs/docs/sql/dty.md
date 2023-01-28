@@ -1,7 +1,0 @@
-## Types
-
-## Casting
-
-## Array
-
-## Struct
