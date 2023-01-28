@@ -1,6 +1,6 @@
-Use the `SELECT` command to retrieve rows from a table or materialized view. It returns the rows that satisfy the creteria that you specify with the clauses and conditions in your query.
+`SELECT` is the only SQL statement allowed by users. It is simply to use a query to build up all you need.
 
-## Syntax
+## Synopsis
 ```sql
 SELECT [ ALL | DISTINCT ] [ * | expression [ AS output_name ] [ , expression [ AS output_name ] ... ] ]
     [ FROM from_item [ , from_item ...] ]

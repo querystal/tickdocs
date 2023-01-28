@@ -4,8 +4,11 @@
 <b>Real-time</b>
 > 0xTick contains plenty of real-time data sources of blockchains that are updated in subsecond.
 
-<b>SQL Interface with Time Travel</b>
-> 0xTick supports custom signal by full SQL standard, and you are possible to use window function and and time travel feature to back test a former signal.
+<b>SQL Interface</b>
+> 0xTick supports custom signal by full SQL standard, and you are possible to form a signal statement in SQL. Any non-empty result will be considered as a signal and deliver to you.
+
+<b>Time Travel</b>
+> 0xTick supports window function and time-to-live on the dataset, and is able to implement time travel in general SQL statements.
 
 <b>Data Integrity</b>
 > All SQL statements have clear lineages among them and it is easy for a subscriber to understand the algorithms before proceed to subscribe them.
