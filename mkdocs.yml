@@ -61,9 +61,10 @@ nav:
         - SELECT: docs/sql/select.md
         - Data Types: docs/sql/dty.md
         - Functions: docs/sql/func.md
-    - Meta Station:
-        - Data Metadata: docs/meta/meta.md
-        - Lineage: docs/meta/lineage.md
+    # - Meta Station:
+    #     - Data Metadata: docs/meta/meta.md
+    #     - Lineage: docs/meta/lineage.md
+    #     - Subscription: docs/meta/sub.md
   - About: 
     - Team: about/team.md
     - Contact: about/contact.md

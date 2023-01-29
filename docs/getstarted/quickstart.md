@@ -1,1 +1,7 @@
-In this document, we will guide you to hand on 0xTick. You will be using 10-15 mins to finish this guide.
+In this document, we will guide you to hand on 0xTick. And you will be able to understand topics below:
+
+* [Create an alert of USDT trading volumes over windows](1). (10-20 minutes)
+* [Subscribe an alert in the platform](2). (5 minutes)
+
+[1]: <docs/getstarted/usdt.md>
+[2]: <docs/getstarted/sub.md>

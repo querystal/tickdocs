@@ -15,14 +15,13 @@ Official datasets are listed below:
 
 |Layer|Table / View|Description|
 |---|---|---|
-|ODS|ods_eth_txns||
-|ODS|ods_eth_blocks||
-|ODS|ods_eth_receipts||
-|ODS|ods_eth_logs||
-|DWD|dwd_eth_cex_dim||
-|DWD|dwd_eth_erc20_dim||
-|DWD|dwd_eth_nft_dim||
-|DWD|dwd_eth_erc20_event||
-|DWD|dwd_eth_erc20_price||
-|DWD|dwd_eht_ether_trades||
-|DWD|dwd_eth_txn||
+|ODS|ods_eth_txns|all ethereum transactions with original format.|
+|ODS|ods_eth_blocks|all ethereum blocks with original format.|
+|ODS|ods_eth_receipts|all ethereum receipts of transactions with original format.|
+|ODS|ods_eth_logs|all ethereum logs of transactions with original format.|
+|DWD|dwd_eth_cex_dim|dimension table of centralised exchanges, including wallets and names.|
+|DWD|dwd_eth_erc20_dim|dimension table of erc20 tokens, including scale of decimals and addresses.|
+|DWD|dwd_eth_nft_dim|dimension table of erc721, erc1155 tokens, including names and addresses.|
+|DWD|dwd_eth_erc20_event|all erc20 operations, including deposit, withdrawl, transfer.|
+|DWD|dwd_eth_erc20_price|real-time erc20 token prices in the market.|
+|DWD|dwd_eht_ether_trades|all ether operations, including transfer, gas used, gas price.|
