@@ -58,8 +58,7 @@ nav:
     - Signal Development: 
       - Data Warehouse: docs/dw/dataset.md
       - SQL: 
-        - Commands:
-            - SELECT: docs/sql/select.md
+        - SELECT: docs/sql/select.md
         - Data Types: docs/sql/dty.md
         - Functions: docs/sql/func.md
     - Meta Station:

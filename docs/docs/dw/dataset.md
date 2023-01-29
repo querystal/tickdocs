@@ -8,7 +8,7 @@ Queries (Computing Tasks) are running on 0xTick streaming data warehouse. By fol
 > Data warehouse details are batch of tables and views to form a general signals or bases of signals. They help users to focus on business analysis. 0xTick creates some DWD tables and views for users to start their works with trouble free.
 
 <b>Application Rules (Rules)</b>
-> In an enterprise-level data warehouse, application data store (ADS) are batch of tables and views serving application services. They are equavelant to Application Rules (Rules) in 0xTick. Any user query (SELECT statement) submitted via workspace is tagged with prefix of rule and considered an application rule.  
+> In an enterprise-level data warehouse, application data store (ADS) are batch of tables and views serving application services. They are equivalent to Application Rules (Rules) in 0xTick. Any query (SELECT statement) submitted via workspace is tagged with prefix of rule and considered an application rule.  
 
 ## ODS & DWD datasets
 Official datasets are listed below:

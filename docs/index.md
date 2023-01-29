@@ -2,19 +2,19 @@
 
 ## Why 0xTick
 <b>Real-time</b>
-> 0xTick contains plenty of real-time data sources of blockchains that are updated in subsecond.
+> Streaming blockchain events in subsecond, getting notified as soon as they happen.
 
 <b>SQL Interface</b>
-> 0xTick supports custom signal by full SQL standard, and you are possible to form a signal statement in SQL. Any non-empty result will be considered as a signal and deliver to you.
+> Describe a signal by full ANSI-SQL standard and receive any non-empty result instantly.
 
 <b>Time Travel</b>
-> 0xTick supports window function and time-to-live on the dataset, and is able to implement time travel in general SQL statements.
+> Apply aggregation over window functions with time travel support.
 
 <b>Data Integrity</b>
-> All SQL statements have clear lineages among them and it is easy for a subscriber to understand the algorithms before proceed to subscribe them.
+> Trace the events quality and integrity, being confident about the signal.
 
 <b>Integration</b>
-> Instead of keeping querying a datasets sequentially, 0xTick supports incremental computing and push new outcomes proactively, which signaficantly reduces the cost of running all statements.
+> Deliver the signal to your ends, being touched anytime, anywhere.
 
 ## Hands On
 You may try out 0xTick by [Get Started](getstarted/quickstart.md) guide to get glapse of the product, and follow the tutorials to dive further into the system.
