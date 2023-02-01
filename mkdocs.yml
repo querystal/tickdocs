@@ -68,5 +68,6 @@ nav:
   - About: 
     - Team: about/team.md
     - Contact: about/contact.md
+    - RoadMap: about/roadmap.md
     - Privacy Policy: privacy.md
     - Terms of Use: terms.md
