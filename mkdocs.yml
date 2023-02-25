@@ -52,8 +52,11 @@ markdown_extensions:
   - pymdownx.tilde
 nav:
   - Welcome: index.md
-  #   - English: homepage/home.md
-  - Getting Started: getstarted/quickstart.md
+  - Getting Started: 
+    - Overview: getstarted/quickstart.md
+    - Subscribe An Event Rule via Telegram: getstarted/sub.md 
+    - Apply for Developer Access: getstarted/beta.md
+    - Create An Event Rule of USDT Trading Volume Over A Time Frame: getstarted/usdt.md
   - Documentation: 
     - Signal Development: 
       - Data Warehouse: docs/dw/dataset.md
@@ -61,10 +64,6 @@ nav:
         - SELECT: docs/sql/select.md
         - Data Types: docs/sql/dty.md
         - Functions: docs/sql/func.md
-    # - Meta Station:
-    #     - Data Metadata: docs/meta/meta.md
-    #     - Lineage: docs/meta/lineage.md
-    #     - Subscription: docs/meta/sub.md
   - About: 
     - Team: about/team.md
     - Contact: about/contact.md

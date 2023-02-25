@@ -1,10 +1,25 @@
-In this document, we will guide you to hand on 0xTick. And you will be able to understand topics below:
+In this quick start tutorial, we will guide you how to use 0xTick from different perspectives, event subscriber and event developer.
 
-## To be a BETA user
+## Marjor Concepts
+Before you start, we would like to introduce major concepts of 0xTick.
 
-## Work with 0xTick
-* [Create an alert of USDT trading volumes over windows](1). (10-20 minutes)
-* [Subscribe an alert in the platform](2). (5 minutes)
+<b>Rule</b> the pattern of blockchain data that is considered an event.
 
-[1]: <docs/getstarted/usdt.md>
-[2]: <docs/getstarted/sub.md>
+<b>Event</b> a hit of a rule.
+
+<b>Channel</b> the delivery method that subscribers receive events, e.g. Telegram, Discord and Messaging Middleware.
+
+## Tutorial
+### As a subscriber
+* [Subscribe an event rule via Telegram][2]. (3 minutes)
+
+### As a developer 
+* [Apply for developer access][3]. (3 minutes)
+* [Create an event rule of USDT trading volume over a time frame][1]. (15 minutes)
+
+### Support
+If you are looking for help, please approach us via [contacts](../about/contact.md).
+
+[1]: <usdt.md>
+[2]: <sub.md>
+[3]: <beta.md>
