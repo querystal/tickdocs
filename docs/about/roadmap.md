@@ -24,7 +24,7 @@
 <tr>
 <td>Mar 2023</td>
 <td>
-Off-chain data warehouse release with serverless OLAP engine.
+Bulltin events with tokenflow visualisation and analysis.
 </td>
 </td>
 <td>Developing</td>
@@ -32,7 +32,7 @@ Off-chain data warehouse release with serverless OLAP engine.
 <tr>
 <td>May 2023</td>
 <td>
-Polygon, Solana, BSC support
+Polygon, Solana, BSC coverage
 </td>
 </td>
 <td>Designing</td>
@@ -40,7 +40,7 @@ Polygon, Solana, BSC support
 <tr>
 <td>July 2023</td>
 <td>
-Fine-grained lineages and graph computing
+Fine-grained graph computing
 </td>
 </td>
 <td>Designing</td>
@@ -48,7 +48,7 @@ Fine-grained lineages and graph computing
 <tr>
 <td>Dec 2023</td>
 <td>
-Complete cloud-native deployment in SaaS
+Release cloud-native deployment in SaaS
 </td>
 </td>
 <td>Designing</td>

@@ -15,7 +15,7 @@
 <b>Over 6 Million address labels</b>
 > 0xTick provides over 6 million address labels to identify cluster addresses and entities, helping a watchdog to dive into token flow of an event.
 
-<b>Signal Community</b>
+<b>Event Community</b>
 > 0xTick host a open community for on-chain watchdogs built by professional and experienced on-chain analysts in the market, which allows customers to follow the most valuable events timely.
 
 <b>Integration</b>
@@ -32,21 +32,19 @@
 - Individual or institutional investors are able to follow events via Telegram and Discord to be notified when massive trading volume is detected by 0xTick, and further check the tokenflow and participants to identify the nature of the trade, protecting you from rug pull and melicious behaviours on chain.
 
 ## Quick Start 
-You may try out 0xTick by [Get Started](getstarted/quickstart.md) guide to get glapse of the product, and follow the tutorials to dive further into the system.
+You may try out 0xTick by [Getting Started](getstarted/quickstart.md) guide to get glapse of the product, and follow the tutorials to dive further into the system.
 
-## Contribution to Community 
+## Contribute to Community 
 0xTick event community is built on invitation basis to guarantee the high quality of events. We encourage on-chain analysts and blockchain enthusiasts to apply for our developer access.
 
 ## SaaS for Enterprise
-0xTick is working closely with enterprise partners to incubate the SaaS solution for better segregation. If your business is interested in the System, please contact us via [Business Enquiry](about/contact.md).
-
-## About Us
-You may understand and contact us via [About](about/team.md).
+0xTick is working closely with enterprise partners to incubate the SaaS solution for better segregation. If your business is interested in private cloud deployment, please contact us via [Business Enquiry](about/contact.md).
 
 ## Business Partners
 <a href="https://www.risingwave-labs.com/">
     <img src="https://www.risingwave.cloud/imgs/logo.svg" style="padding-left:1rem, width:150px">
 </a>
+> RisingWave Labs is our primary business partner to share the goal of creating a leading streaming platform for Web3.0. 
 
 [1]:<https://news.0xtick.com>
 [2]:<https://workspace.0xtick.com>

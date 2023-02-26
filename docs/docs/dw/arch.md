@@ -1,1 +1,1 @@
-Architecture
+Streaming computing provides an unfair advantage of data timeliness regarding to batch processing.

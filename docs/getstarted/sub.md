@@ -26,12 +26,17 @@ In this tutorial, we will guide to subscribe an event rule in the community via 
 
 Now it is ready to use this channel to subscribe events.
 
-## Search for an event rule
+## Step 2: Search for an event rule
 
 * Open [Rule Market][2] and locate interested rule. In this tutorial we use <b>RULE_USDC_VOLUME_OVER_100MILS_IN_10MINUTES</b> as an example.
 
 ![alt text](./rule-search.png)
 
+* Click <b>ADD</b> button at right-hand side to subscribe the event to the channel created.
+
+![alt text](./sub.png)
+
+Now you will get message sent by 0xTick once the event happens. 
 
 [1]: <https://news.0xtick.com/channels>
 [2]: <https://news.0xtick.com/rule-market>

@@ -2,7 +2,7 @@ Queries (Computing Tasks) are running on 0xTick streaming data warehouse. By fol
 
 ## Layers
 <b>Operational Data Store (ODS)</b>
-> Operational data store has the original formats of datasets directly from blockchain full node, such as blocks, transactions, receipts, traces and logs. However, the original forms are semi-structured and encoded, leading to barriers of analysis via SQL queries, 0xTick refines the formats and structure of ODS tables, and usually users are less likely to use them often. 
+> Operational data store has the original formats of datasets directly from blockchain full node, such as blocks, transactions, receipts, traces and logs. However, the original forms are semi-structured and encoded, leading to barriers of analysis via SQL queries, 0xTick refines the formats and structure of ODS tables, and usually users are less likely to use them directly. 
 
 <b>Data Warehouse Details (DWD)</b>
 > Data warehouse details are batch of tables and views to form a general signals or bases of signals. They help users to focus on business analysis. 0xTick creates some DWD tables and views for users to start their works with trouble free.
@@ -27,3 +27,7 @@ Official datasets are listed below:
 |DWD|dwd_eth_nft_event|nft trading events of major contracts, e.g. seaport.|
 |DWD|dwd_eth_sync_progress_tab|the latest block number of ethereum synced by far.|
 |DWD|dwd_eth_address_label|inhouse address labels provided by 0xTick.|
+
+Datasets listed above are only the basic coverage as of now, please refer to meta station in [Event Studio][1] for the most up-to-date coverage.
+
+[1]: <https://workspace.0xtick.com>
