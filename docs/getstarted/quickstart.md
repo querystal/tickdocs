@@ -1,4 +1,4 @@
-In this quick start tutorial, we will guide you how to use 0xTick from different perspectives, event subscriber and event developer.
+In this quick start tutorial, we will guide you how to use 0xTick from different perspectives, event subscriber and rule developer.
 
 ## Marjor Concepts
 Before you start, we would like to introduce major concepts of 0xTick.

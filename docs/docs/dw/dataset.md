@@ -21,7 +21,9 @@ Official datasets are listed below:
 |ODS|ods_eth_logs|all ethereum logs of transactions with original format.|
 |DWD|dwd_eth_cex_dim|dimension table of centralised exchanges, including wallets and names.|
 |DWD|dwd_eth_erc20_dim|dimension table of erc20 tokens, including scale of decimals and addresses.|
-|DWD|dwd_eth_nft_dim|dimension table of erc721, erc1155 tokens, including names and addresses.|
 |DWD|dwd_eth_erc20_event|all erc20 operations, including deposit, withdrawl, transfer.|
 |DWD|dwd_eth_erc20_price|real-time erc20 token prices in the market.|
-|DWD|dwd_eht_ether_trades|all ether operations, including transfer, gas used, gas price.|
+|DWD|dwd_eth_ether_trades|all ether operations, including transfer, gas used, gas price.|
+|DWD|dwd_eth_nft_event|nft trading events of major contracts, e.g. seaport.|
+|DWD|dwd_eth_sync_progress_tab|the latest block number of ethereum synced by far.|
+|DWD|dwd_eth_address_label|inhouse address labels provided by 0xTick.|

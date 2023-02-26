@@ -3,7 +3,7 @@
 0xTick supports two major products:
 
 * <b>[Bulletin Events][1]</b> - Open community of real-time events to follow and share.
-* <b>[Event Studio][2]</b> - Event development toolkits to customise the event watchdog.
+* <b>[Event Studio][2]</b> - Rule development toolkits to customise the event watchdog.
 
 ## Why 0xTick
 <b>Real-time</b>

@@ -58,8 +58,10 @@ nav:
     - Apply for Developer Access: getstarted/beta.md
     - Create An Event Rule of USDT Trading Volume Over A Time Frame: getstarted/usdt.md
   - Documentation: 
+    - Data Warehouse: 
+      - Streaming Architecture: docs/dw/arch.md
+      - Data Models: docs/dw/dataset.md
     - Signal Development: 
-      - Data Warehouse: docs/dw/dataset.md
       - SQL: 
         - SELECT: docs/sql/select.md
         - Data Types: docs/sql/dty.md
