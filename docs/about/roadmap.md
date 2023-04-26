@@ -27,12 +27,28 @@
 Bulltin events with tokenflow visualisation and analysis.
 </td>
 </td>
-<td>Developing</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>Apr 2023</td>
+<td>
+Release cloud-native deployment in SaaS
+</td>
+</td>
+<td>Done</td>
 </tr>
 <tr>
 <td>May 2023</td>
 <td>
-Polygon, Solana, BSC coverage
+Polygon, Arbitrum, BSC coverage
+</td>
+</td>
+<td>Developing</td>
+</tr>
+<tr>
+<td>July 2023</td>
+<td>
+Wallet profiling
 </td>
 </td>
 <td>Designing</td>
@@ -40,7 +56,15 @@ Polygon, Solana, BSC coverage
 <tr>
 <td>July 2023</td>
 <td>
-Fine-grained graph computing
+Major Dex, Defi, Game, NFT protocol coverage
+</td>
+</td>
+<td>Designing</td>
+</tr>
+<tr>
+<td>Oct 2023</td>
+<td>
+Full history unify query engine
 </td>
 </td>
 <td>Designing</td>
@@ -48,7 +72,7 @@ Fine-grained graph computing
 <tr>
 <td>Dec 2023</td>
 <td>
-Release cloud-native deployment in SaaS
+API for all features
 </td>
 </td>
 <td>Designing</td>
